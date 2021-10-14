@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MarioCastellanos
-- 👀 I’m interested in Mobile application creation using Google's Flutter framework. I'm currently working on a mock car wash app to test my flutter skills. All feedback is appreciated. 
+- 👋 Hi, I’m @MarioCastellanos and I love making apps. 
+- 👀 I’m interested in Mobile application creation using Google's Flutter framework. I'm currently working on a Flutter Apprentice course through raywenderlich. 
 - 🌱 I’m currently learning how to use animations properly in Flutter. 
 - 💞️ I’m looking to collaborate on mobile apps that are cross platform. 
 - 📫 You can reach out to me  @ maariocastellanos@gmail.com
