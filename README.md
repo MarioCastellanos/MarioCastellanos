@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioCastellanos and I love making apps. 
 - 👀 I’m interested in Mobile application creation using Google's Flutter framework. 
 - 🌱 I’m currently learning how to use animations properly in Flutter. 
-- 💞️ I’m looking to collaborate on mobile apps that are cross platform. 
+-  I’m looking to collaborate on mobile apps that are cross platform. 
 - 📫 You can reach out to me  @ maariocastellanos@gmail.com
 
 <!---
